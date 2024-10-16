@@ -144,4 +144,4 @@ require (
 )
 
 go 1.22.0
-toolchain 1.22.7
+toolchain go1.22.7
